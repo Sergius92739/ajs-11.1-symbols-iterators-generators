@@ -1,3 +1,4 @@
+/* eslint-disable no-console */
 import Bowman from './Bowman';
 import Deamon from './Deamon';
 import Magician from './Magician';
