@@ -13,6 +13,5 @@ const player4 = new Swordsman('Jack');
 group1.addAll([player1, player2, player3, player4]);
 
 for (const player of group1) {
-  // eslint-disable-next-line no-console
   console.log(player);
 }
